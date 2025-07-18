@@ -81,11 +81,12 @@ Make sure MongoDB is running and connected.
 
 ---
 
-## 📸 Screenshots (Optional)
+## 📸 Screenshots
 
-> *You can add screenshots of key pages like Add Accommodation, Booking Page, etc.*
+> ![Upload Page](image.png)
+> ![Single Page](image-1.png)
+> 
 
----
 
 ## 🧠 What I Learned
 
