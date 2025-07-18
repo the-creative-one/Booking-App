@@ -1,4 +1,4 @@
-# 🏠 Booking App – Airbnb Clone (MERN Stack)
+# 🏠 Booking App – CozyVista (MERN Stack)
 
 This is a simple Airbnb-inspired booking application built using the **MERN stack** (MongoDB, Express, React, Node.js). It allows users to sign up, log in, add their own accommodations, and make bookings with ease.
 
